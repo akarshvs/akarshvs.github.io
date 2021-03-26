@@ -1,0 +1,78 @@
+@media (max-width: 992px)
+{
+    .banner{
+        background-position: center;
+    }
+    .banner h2
+    {
+     font-size: 40px;
+    }
+     .banner .info h5
+     {
+         font-size: 15px;
+     }
+    
+
+    .sec
+    {
+        padding: 100px 50px 50px 50px;
+    }
+    .projects
+    {
+        padding-top: 250px;
+    }
+    .row100
+    {
+        flex-direction: column;
+    }
+    .contactForm .row100 .inputBx50,
+    .contactForm .row100 .inputBx100
+    {
+        width: 100%;
+        margin: 0;
+    }
+
+    .sci{
+        margin: 20px;
+    }
+
+    .sci ul li img{
+        font-size: 24px;
+    }
+
+    h3
+    {
+    font-size: 36px;
+    }
+
+
+
+    .ski ul li a{
+        width: 30px;
+        height: 30px;
+        
+       }
+       
+    
+    .ski ul li a img {
+        max-width:30px;
+    }
+
+    
+.ski ul{
+    grid-gap: 10px;
+}
+
+.contact p
+{
+    font-size: 10px;
+    padding-bottom: 20px;
+}
+
+.mxw800p p
+{
+font-size: 1em;
+}
+
+    
+}
